@@ -3,7 +3,7 @@
 ## REG NO:212223040034
 ## Aim:
 
-To Install Virtualbox / VMware Workstation and execute basic Linux commands like pwd, mkdir, ls, date, cat, and writing a Bash script to perform arithmetic operations and read a file from the terminal.
+To study the execution of various Linux operating system commands.
 
 ## Linux:
 
@@ -14,18 +14,6 @@ helps the communication between hardware and software. The main advantage of Lin
 Linux Commands:
 All basic and advanced tasks can be done by executing commands. The commands are executed on Linux terminal. Linux commands are case sensitive.
 
-## PROBLEM STATEMENT
-
-Manually executing basic Linux tasks like file management, navigation, and arithmetic operations can be inefficient. This experiment aims to automate these tasks using Bash scripting, including:
-1. Displaying the current directory, files, and system date.
-2. Reading and displaying file contents.
-3. Performing basic arithmetic operations.
-
-## REQUIREMENTS
-- Oracle VM VirtualBox Manager
-- Kali Linux
-- Mousepad (Text Editor)
-- Terminal
 ## Commands:
 
 ### 1)	ls Command
@@ -320,6 +308,9 @@ Configuration of Kali Linux on Oracle Virtual Box :
 ![image](https://github.com/user-attachments/assets/c8cefd3c-b7b5-48fa-a2f6-85db776cf094)
 
 ## Output : 
+![421258284-cc481926-bcfc-4901-b74d-7f5c76beabd5](https://github.com/user-attachments/assets/e2a551b8-7ae8-43fb-8732-796820009aa3)
+![421258755-ddc08a53-e155-4a5c-afa4-d4a9429696d3](https://github.com/user-attachments/assets/277d7eb3-a85b-44e2-b199-8248bb664411)
+
 
 ![WhatsApp Image 2025-02-26 at 13 59 24_1c603799](https://github.com/user-attachments/assets/bdb5a52e-f093-4767-9cb1-0c4ffc8fe11f)
 ![WhatsApp Image 2025-02-26 at 13 59 32_6f105c88](https://github.com/user-attachments/assets/73eb14f7-96b1-4685-82de-234802e0831b)
