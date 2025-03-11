@@ -315,9 +315,6 @@ chmod +x myscript.sh
 
 ## OUTPUT
 
-#### REG NUMBER: 212223040034
-#### NAME: DHANUHSA K
-
 Configuration of Kali Linux on Oracle Virtual Box :
 
 ![image](https://github.com/user-attachments/assets/c8cefd3c-b7b5-48fa-a2f6-85db776cf094)
@@ -330,26 +327,3 @@ Configuration of Kali Linux on Oracle Virtual Box :
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Result:
-
-Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
