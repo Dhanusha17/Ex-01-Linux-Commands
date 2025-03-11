@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## DHANUHSA K
-## 212223040034
+## NAME: DHANUHSA K
+## REG NO:212223040034
 ## Aim:
 
 To Install Virtualbox / VMware Workstation and execute basic Linux commands like pwd, mkdir, ls, date, cat, and writing a Bash script to perform arithmetic operations and read a file from the terminal.
